@@ -5,6 +5,9 @@ body{
     background: #ffcbdb;
 
 }
+.h1{
+    padding: 10px;
+}
 
 .container {
     width: 100%;
